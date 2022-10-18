@@ -1,26 +1,24 @@
-
-<h1 align="center">Hi 👋, I'm Rotha Dapravith</h1>
-<h3 align="center">A passionate frontend developer from Cambodia</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
-
+<h1 align="center">Hello There 👋, I'm Rotha Dapravith</h1>
+<h3 align="center">A passionate frontend web developer from Cambodia</h3>
+<img align="right" alt="Coding" width="450" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dapravith&label=Profile%20views&color=0e75b6&style=flat" alt="dapravith" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@rdapravith" target="blank"><img src="https://img.shields.io/twitter/follow/@rdapravith?logo=twitter&style=for-the-badge" alt="@rdapravith" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rdapravith" target="blank"><img src="https://img.shields.io/twitter/follow/rdapravith?logo=twitter&style=for-the-badge" alt="rdapravith" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce**
 
 - 🌱 I’m currently learning **Vue js , React js and Laravel**
 
-- 💬 Ask me about **Vue js , React js**
+- 💬 Ask me about **JavaScript,Vue js , React js**
 
 - 📫 How to reach me **dapravithrotha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@rdapravith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rdapravith" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rotha dapravith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rotha dapravith" height="30" width="40" /></a>
+<a href="https://twitter.com/rdapravith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rdapravith" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/rotha-dapravith-42511023a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rotha-dapravith-42511023a" height="30" width="40" /></a>
 <a href="https://fb.com/rotha dapravith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rotha dapravith" height="30" width="40" /></a>
-<a href="https://instagram.com/rotha dapravith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rotha dapravith" height="30" width="40" /></a>
+<a href="https://instagram.com/rotha_dapravith_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rotha_dapravith_18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
