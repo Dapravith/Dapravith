@@ -1,4 +1,4 @@
-<h1 align="center">Hello There 👋, I'm Rotha Dapravith</h1>
+<h1 align="center">Hi There 👋, I'm Rotha Dapravith</h1>
 <h3 align="center">A passionate frontend web developer from Cambodia</h3>
 <img align="right" alt="Coding" width="450" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dapravith&label=Profile%20views&color=0e75b6&style=flat" alt="dapravith" /> </p>
