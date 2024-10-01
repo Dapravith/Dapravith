@@ -12,6 +12,10 @@
 
 ---
 
+### 🔭 Current Projects
+
+- [Spring Boot SSO with Keycloak](https://github.com/Dapravith/springboot-sso-keycloak): Implementing Single Sign-On (SSO) with Keycloak and Docker Compose for secure microservices.
+
 ---
 
 ### 🛠 DevOps Tools and Technologies
@@ -38,7 +42,7 @@ Here are some of the DevOps tools and technologies I work with:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg" alt="Kafka" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/apache-kafka.svg" alt="Kafka" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microservices/microservices-original.svg" alt="Microservices" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="Gradle" width="40" height="40"/>
