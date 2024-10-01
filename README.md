@@ -1,81 +1,58 @@
-<h1 align="center">Hi 👋, I'm Rotha Dapravith</h1>
-<h3 align="center">Junior Software Developer and DevOps Enthusiast from Cambodia</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+![👋 Hi, my name is Rotha Dapravith](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dapravith&label=Profile%20views&color=0e75b6&style=flat" alt="dapravith" /> </p>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Rotha Dapravith
+      </h1>
+    </summary>
+  </ul>
+</div>
+
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left">
+  <a href="https://github.com/Dapravith" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> 
+  <a href="https://linkedin.com/in/rotha-dapravith" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> 
+  <a href="https://twitter.com/rdapravith" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a>
+</p>
+
+**<h3 align="left">🚀 Passionate junior software developer and DevOps enthusiast, creating robust and scalable applications with a focus on user experience.</h3>**
+
+**<h3 align="left">Rapid Fire</h3>**
+
+- 💼 I'm currently working on: **💻 Spring Boot SSO with Keycloak for secure microservices**
+- 🌱 I'm currently learning: **📚 Exploring advanced Spring Boot features**
+- 💬 Ask me about: **💡 Spring Boot, Keycloak, Java, Microservices, and OAuth2**
+- ⚡ Fun fact: **🎢 I once configured a CI/CD pipeline while traveling!**
+
+**<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="32" alt="Java" style="margin-right: 4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="32" alt="Spring Boot" style="margin-right: 4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" style="margin-right: 4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="32" alt="Docker" style="margin-right: 4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="32" alt="Kubernetes" style="margin-right: 4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" height="32" alt="Ansible" style="margin-right: 4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="32" alt="AWS" style="margin-right: 4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" height="32" alt="ElasticSearch" style="margin-right: 4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="32" alt="Grafana" style="margin-right: 4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/apache-kafka.svg" height="32" alt="Kafka" style="margin-right: 4px">
+</div>
+
+**<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-<a href="https://twitter.com/rdapravith" target="_blank"><img src="https://img.shields.io/twitter/follow/rdapravith?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
-<a href="https://linkedin.com/in/rotha-dapravith" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/Dapravith" target="_blank"><img src="https://img.shields.io/github/followers/dapravith?logo=github&style=for-the-badge" alt="GitHub Followers" /></a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dapravith&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=dapravith&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
-
----
-
-### 🔭 Current Projects
-
-- [Spring Boot SSO with Keycloak](https://github.com/Dapravith/springboot-sso-keycloak): Implementing Single Sign-On (SSO) with Keycloak and Docker Compose for secure microservices.
-
----
-
-### 🛠 DevOps Tools and Technologies
-
-Here are some of the DevOps tools and technologies I work with:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="ElasticSearch" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dapravith&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dapravith&repo=springboot-sso-keycloak&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
 </p>
 
----
+**<h3 align="left">Support Me</h3>**
 
-### 💻 Backend Technologies
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/apache-kafka.svg" alt="Kafka" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microservices/microservices-original.svg" alt="Microservices" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="Gradle" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" alt="OpenAPI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-</p>
-
----
-
-### 🌱 Currently Learning
-
-- Fullstack Development with React, Spring Boot, NestJS
-- Cloud Technologies and Microservices with Docker and Kubernetes
-
----
-
-### 📫 How to reach me:
-
-- **Email**: dapravithrotha@gmail.com
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dapravith&show_icons=true&locale=en" alt="dapravith" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dapravith&" alt="dapravith" />
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/rdapravith" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/></a>
-  <a href="https://linkedin.com/in/rotha-dapravith" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/></a>
-  <a href="https://github.com/Dapravith" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/></a>
-</p>
-****
+<p align="left"><a href="https://ko-fi.com/dapravith" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
