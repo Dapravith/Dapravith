@@ -21,7 +21,7 @@ With expertise in **backend systems, DevOps automation, cloud infrastructure, an
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,nextjs,react,tailwind,postgres,mongodb,docker,kubernetes,aws,githubactions,jenkins,terraform,ansible,selenium,junit,testng,devsecops,elastic,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,nextjs,react,tailwind,postgres,mongodb,docker,kubernetes,aws,githubactions,jenkins,terraform,ansible,selenium,junit,testng,prometheus,grafana,elk" />
 </p>
 
 ---
@@ -50,7 +50,7 @@ With expertise in **backend systems, DevOps automation, cloud infrastructure, an
 
 ### **Monitoring & Logging**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elastic" />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elk" />
 </p>
 - Prometheus, Grafana, Elastic Stack (ELK) for metrics, dashboards, and logging  
 
@@ -63,7 +63,7 @@ With expertise in **backend systems, DevOps automation, cloud infrastructure, an
 
 ### **Security & Compliance**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=devsecops" />
+  <img src="https://skillicons.dev/icons?i=security" />
 </p>
 - DevSecOps best practices  
 - Secure pipelines, infrastructure, and production environments  
@@ -78,6 +78,25 @@ With expertise in **backend systems, DevOps automation, cloud infrastructure, an
 
 ---
 
+## 🚀 Featured Projects
+
+### **[Room Service Backend](https://github.com/Dapravith/room-service)**
+- RESTful backend for room booking management  
+- Built with Spring Boot & JWT authentication  
+- Containerized with Docker, ready for CI/CD pipelines  
+
+### **[Room Service Frontend](https://github.com/Dapravith/room-service-fe)**
+- Responsive frontend using Next.js / React  
+- Seamless backend integration  
+- Styled using Tailwind CSS  
+
+### **[Digital Security Platform (Fullstack + DevOps)](https://github.com/Dapravith/digital-security-solution)**
+- Fullstack SaaS platform with Next.js frontend & Spring Boot backend  
+- Dockerized, deployed with Kubernetes & GitHub Actions CI/CD  
+- Secure authentication, RBAC, and automated testing  
+
+---
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="mailto:dapravithrotha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -87,4 +106,4 @@ With expertise in **backend systems, DevOps automation, cloud infrastructure, an
 
 ---
 
-⭐ **Thanks for visiting!** Follow me if you can.
+⭐ **Thanks for visiting!** Follow me to and i follow you back! 
