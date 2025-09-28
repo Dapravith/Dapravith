@@ -1,111 +1,24 @@
-<h1 align="center">Hi there 👋, I'm Dapravith</h1>
-<h3 align="center">Full Stack Developer | DevOps Engineer | Open Source Contributor</h3>
+# 💫 About Me:
+🔭 I’m currently working on building full-stack web apps with Next.js and Spring Boot.  <br>🤝 I’m looking to collaborate on open source projects that improve developer tools.  <br>👐 I’m looking for help with mastering advanced DevOps pipelines and cloud deployments.  <br>🌱 I’m currently learning Kubernetes, Terraform, and best practices in system design.  <br>💬 Ask me about Java, REST APIs, or setting up clean project architectures.  <br>⚡ Fun fact: I can spend hours tweaking my VS Code setup just to save a few seconds later.  <br>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rotha-dapravith/) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dapravith&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dapravith&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dapravith&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Dapravith&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Dapravith&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Dapravith&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## 🌟 About Me
-I build **robust, scalable, and secure software solutions** that work in production.  
-With expertise in **backend systems, DevOps automation, cloud infrastructure, and CI/CD pipelines**, I ensure high-quality software delivery.  
-
-**My journey:**  
-- 🚀 Started as a **Java & Spring Boot developer**, building backend systems  
-- 🌐 Expanded into **Full Stack development** with Next.js, React, and Tailwind  
-- ⚙️ Mastered **DevOps pipelines, containerization, and cloud infrastructure**  
-- 📊 Specialized in **monitoring, logging, automation testing, and security compliance**  
-
-**Fun fact:** I debug faster with coffee ☕  
-**Goal 2025:** Contribute to **open-source projects worldwide** and grow as a DevOps & Fullstack mentor  
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,nextjs,react,tailwind,postgres,mongodb,docker,kubernetes,aws,githubactions,jenkins,terraform,ansible,selenium,junit,testng,prometheus,grafana,elk" />
-</p>
-
----
-
-## ⚙️ DevOps & Automation Expertise
-
-### **Containerization & Orchestration**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-</p>
-- Docker & Kubernetes for scalable application deployment  
-- Cluster setup, orchestration, and automation  
-
-### **Cloud & Infrastructure Automation**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible" />
-</p>
-- AWS & GCP cloud solutions  
-- Terraform & Ansible for Infrastructure as Code  
-
-### **CI/CD Pipelines**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab" />
-</p>
-- Build, test, and deploy automation using Jenkins, GitHub Actions, GitLab CI  
-
-### **Monitoring & Logging**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elk" />
-</p>
-- Prometheus, Grafana, Elastic Stack (ELK) for metrics, dashboards, and logging  
-
-### **Programming & Automation Testing**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,bash,selenium,junit,testng" />
-</p>
-- Java (Spring Boot), Python, Bash for automation and backend development  
-- Selenium, JUnit, TestNG for CI/CD integrated testing  
-
-### **Security & Compliance**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=security" />
-</p>
-- DevSecOps best practices  
-- Secure pipelines, infrastructure, and production environments  
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dapravith&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapravith&layout=compact&theme=tokyonight&hide=html,css" height="180"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### **[Room Service Backend](https://github.com/Dapravith/room-service)**
-- RESTful backend for room booking management  
-- Built with Spring Boot & JWT authentication  
-- Containerized with Docker, ready for CI/CD pipelines  
-
-### **[Room Service Frontend](https://github.com/Dapravith/room-service-fe)**
-- Responsive frontend using Next.js / React  
-- Seamless backend integration  
-- Styled using Tailwind CSS  
-
-### **[Digital Security Platform (Fullstack + DevOps)](https://github.com/Dapravith/digital-security-solution)**
-- Fullstack SaaS platform with Next.js frontend & Spring Boot backend  
-- Dockerized, deployed with Kubernetes & GitHub Actions CI/CD  
-- Secure authentication, RBAC, and automated testing  
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:dapravithrotha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/dapravith"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://dapravith-digital-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
----
-
-⭐ **Thanks for visiting!** Follow me to and i follow you back! 
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
