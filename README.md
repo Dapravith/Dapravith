@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=40&lines=%24+whoami+--+dapravith;senior+fullstack+%7C+cloud+%7C+devops)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=3FB950&center=true&vCenter=true&repeat=true&width=550&height=40&lines=%24+sudo+whoami+--+dapravith;senior+fullstack+%7C+devsecops+%7C+cloud)](https://git.io/typing-svg)
 
-**Building government-scale digital infrastructure from Phnom Penh 🇰🇭**
+**Engineering secure government-scale infrastructure from Phnom Penh 🇰🇭**
 
 <a href="https://www.linkedin.com/in/rotha-dapravith/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://dapravith.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-111?style=flat&logo=safari&logoColor=white" /></a>&nbsp;
@@ -14,31 +14,41 @@
 <br/>
 
 ```yaml
-# ~/.config/dapravith.yml
+# /etc/dapravith/config.yml — VERIFIED ✔
 
-role: Senior Fullstack Developer & Cloud/DevOps Engineer
+role: Senior Fullstack Developer & DevSecOps Engineer
 org:  General Secretariat — Digital Economy and Business Committee (DEBC)
 base: Phnom Penh, Cambodia
+clearance: Government Digital Infrastructure
 
 about: |
   I engineer Cambodia's national digital economy platforms — the APIs behind
   Online Business Registration (OBR), Cambodia Data eXchange (CamDX), and
-  multi-bank payment processing serving 42,000+ enterprises. I care about
-  systems that are correct first, fast second, and simple to operate always.
+  multi-bank payment processing serving 42,000+ enterprises. Security is not
+  a feature I add later — it is the foundation I build on first.
 
 stack:
-  backend:   [ Java, Spring Boot, Node.js, TypeScript, NestJS, Express ]
-  frontend:  [ React, Next.js, Tailwind CSS ]
-  data:      [ PostgreSQL, MongoDB, Redis, RabbitMQ, BullMQ ]
-  cloud:     [ AWS, Docker, Kubernetes, Terraform, Nginx ]
-  ci_cd:     [ GitHub Actions, Jenkins, ArgoCD ]
-  auth:      [ Keycloak, OAuth2, JWT, CamDigiKey SSO ]
+  backend:    [ Java, Spring Boot, Node.js, TypeScript, NestJS, Express ]
+  frontend:   [ React, Next.js, Angular, Tailwind CSS ]
+  data:       [ PostgreSQL, MongoDB, Redis, RabbitMQ, BullMQ ]
+  cloud:      [ AWS, Docker, Kubernetes, Terraform, Nginx ]
+  ci_cd:      [ GitHub Actions, Jenkins, ArgoCD ]
+  security:   [ Keycloak, OAuth2, JWT, CamDigiKey SSO, RBAC ]
+  scanning:   [ SonarQube, Trivy, OWASP ZAP, Snyk, Checkov ]
+
+security_posture:
+  auth:       "Zero-trust identity flows — Keycloak SSO + CamDigiKey + RBAC"
+  secrets:    "Vault-managed, rotated, never hardcoded"
+  containers: "Trivy-scanned, distroless base images, non-root runtime"
+  code:       "SonarQube quality gates, dependency audit on every PR"
+  infra:      "Checkov policy-as-code, least-privilege IAM, encrypted at rest"
+  payments:   "Idempotent processing, atomic transactions, audit-logged"
 
 current_focus:
-  - Kubernetes multi-env orchestration & Terraform IaC
-  - GitOps workflows with ArgoCD
-  - Observability stack — Prometheus, Grafana, Loki
-  - Open-source developer tooling
+  - Kubernetes hardening & network policies
+  - Terraform security modules with Checkov/tfsec
+  - GitOps pipelines with built-in vulnerability gates
+  - Observability — Prometheus, Grafana, Loki
 ```
 
 <br/>
@@ -48,10 +58,9 @@ current_focus:
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%"><b>🏛️ GovTech APIs</b><br/><sub>OBR registration, CamDX<br/>inter-ministry data exchange</sub></td>
-<td align="center" width="25%"><b>💳 Payment Infra</b><br/><sub>ABA · ACLEDA · WING · CANADIA<br/>idempotent invoice processing</sub></td>
-<td align="center" width="25%"><b>🔄 Event Systems</b><br/><sub>BullMQ · RabbitMQ<br/>distributed job orchestration</sub></td>
-<td align="center" width="25%"><b>☁️ Cloud & CI/CD</b><br/><sub>K8s · Terraform · Jenkins<br/>containerized deployments</sub></td>
+<td align="center" width="25%"><b>🔐 Identity & Auth</b><br/><sub>Keycloak SSO · CamDigiKey<br/>OAuth2 · RBAC · JWT</sub></td>
+<td align="center" width="25%"><b>💳 Payment Gateway Ecosystem</b><br/><sub>ABA · ACLEDA · WING · CANADIA<br/>idempotent & audit-logged</sub></td>
+<td align="center" width="25%"><b>☁️ Secure Cloud</b><br/><sub>K8s hardened · Terraform IaC<br/>Trivy · SonarQube gates</sub></td>
 </tr>
 </table>
 </div>
@@ -62,9 +71,9 @@ current_focus:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dapravith&show_icons=true&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&hide_rank=false&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Dapravith&show_icons=true&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a&icon_color=0969da&ring_color=0969da&hide_rank=false&include_all_commits=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dapravith&show_icons=true&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&hide_rank=false&include_all_commits=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dapravith&show_icons=true&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=3fb950&ring_color=3fb950&hide_rank=false&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Dapravith&show_icons=true&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a&icon_color=1a7f37&ring_color=1a7f37&hide_rank=false&include_all_commits=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dapravith&show_icons=true&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=3fb950&ring_color=3fb950&hide_rank=false&include_all_commits=true" />
   </picture>
   &nbsp;&nbsp;
   <picture>
@@ -78,16 +87,16 @@ current_focus:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Dapravith&hide_border=true&background=00000000&stroke=30363d&ring=58a6ff&fire=e3b341&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Dapravith&hide_border=true&background=00000000&stroke=d0d7de&ring=0969da&fire=cf222e&currStreakLabel=24292f&sideLabels=57606a&dates=57606a&currStreakNum=24292f&sideNums=24292f" />
-    <img src="https://streak-stats.demolab.com?user=Dapravith&hide_border=true&background=00000000&stroke=30363d&ring=58a6ff&fire=e3b341&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Dapravith&hide_border=true&background=00000000&stroke=30363d&ring=3fb950&fire=e3b341&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Dapravith&hide_border=true&background=00000000&stroke=d0d7de&ring=1a7f37&fire=cf222e&currStreakLabel=24292f&sideLabels=57606a&dates=57606a&currStreakNum=24292f&sideNums=24292f" />
+    <img src="https://streak-stats.demolab.com?user=Dapravith&hide_border=true&background=00000000&stroke=30363d&ring=3fb950&fire=e3b341&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" />
   </picture>
 </div>
 
 ---
 
 <div align="center">
-  <sub>Complexity is the enemy. Build systems that explain themselves.</sub>
+  <sub>Security is not a feature. It is the foundation.</sub>
   <br/>
   <sub>Open for collaboration — <a href="https://dapravith.vercel.app/#contact">let's build something</a>.</sub>
 </div>
