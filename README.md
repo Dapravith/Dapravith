@@ -396,35 +396,40 @@ My current engineering direction is deeper production experience across:
 
 # 📈 GitHub Activity
 
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dapravith&theme=github_dark"
-  alt="Rotha Dapravith GitHub statistics"
-  height="180"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=Dapravith&theme=github-dark-blue&hide_border=true"
-  alt="Rotha Dapravith GitHub contribution streak"
-  height="180"
-/>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/overview.dark.svg" />
+  <img
+    alt="Rotha Dapravith GitHub overview"
+    src="./assets/profile/overview.light.svg"
+    width="100%"
+  />
+</picture>
 
 ---
 
 # 🌐 Contribution Activity
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/contributions.dark.svg" />
+  <img
+    alt="Rotha Dapravith GitHub contributions and streaks"
+    src="./assets/profile/contributions.light.svg"
+    width="100%"
+  />
+</picture>
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dapravith&theme=github_dark"
-  alt="Rotha Dapravith contribution activity"
-  width="100%"
-/>
+---
 
-</div>
+# 🗓 Contribution History
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/lifetime.dark.svg" />
+  <img
+    alt="Rotha Dapravith lifetime GitHub contribution history"
+    src="./assets/profile/lifetime.light.svg"
+    width="100%"
+  />
+</picture>
 
 ---
 
