@@ -398,15 +398,18 @@ My current engineering direction is deeper production experience across:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dapravith&show_icons=true&hide_border=true&theme=github_dark" />
+<img
+  src="https://www.gitskins.com/api/section/stats?username=dapravith&theme=github-dark"
+  alt="Rotha Dapravith GitHub statistics"
+  width="100%"
+/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dapravith&theme=github-dark-blue&hide_border=true" />
+<br/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapravith&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+<img
+  src="https://streak-stats.demolab.com?user=Dapravith&theme=github-dark-blue&hide_border=true"
+  alt="Rotha Dapravith GitHub contribution streak"
+/>
 
 </div>
 
@@ -416,7 +419,11 @@ My current engineering direction is deeper production experience across:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dapravith&theme=github-compact&hide_border=true&area=true" width="100%" />
+<img
+  src="https://www.gitskins.com/api/section/heatmap?username=dapravith&theme=github-dark"
+  alt="Rotha Dapravith GitHub contribution heatmap"
+  width="100%"
+/>
 
 </div>
 
