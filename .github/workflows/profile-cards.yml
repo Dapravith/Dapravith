@@ -27,4 +27,4 @@ jobs:
           output-dir: assets/profile
           themes: light,dark
           commit: true
-          commit-message: chore(profile): refresh generated cards [skip ci]
+          commit-message: "chore(profile): refresh generated cards [skip ci]"
