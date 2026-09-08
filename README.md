@@ -8,9 +8,9 @@ Building reliable applications, backend services, delivery pipelines, and cloud-
 
 📍 Phnom Penh, Cambodia
 
-[![GitHub](https://img.shields.io/badge/GitHub-Dapravith-181717?style=for-the-badge\&logo=github)](https://github.com/Dapravith)
-[![Portfolio](https://img.shields.io/badge/Portfolio-dapravith.vercel.app-000000?style=for-the-badge\&logo=vercel)](https://dapravith.vercel.app/)
-[![X](https://img.shields.io/badge/X-@Rdapravith-000000?style=for-the-badge\&logo=x)](https://x.com/Rdapravith)
+[![GitHub](https://img.shields.io/badge/GitHub-Dapravith-181717?style=for-the-badge&logo=github)](https://github.com/Dapravith)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dapravith.vercel.app-000000?style=for-the-badge&logo=vercel)](https://dapravith.vercel.app/)
+[![X](https://img.shields.io/badge/X-@Rdapravith-000000?style=for-the-badge&logo=x)](https://x.com/Rdapravith)
 
 </div>
 
@@ -129,37 +129,37 @@ My main interests are designing maintainable backend systems, building modern we
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,ts,js,python,bash" />
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,bash" alt="Java, TypeScript, JavaScript, Python, Bash" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,tailwind,vite" alt="Vue, Nuxt, React, Next.js, Tailwind CSS, Vite" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" alt="Spring, Node.js, Express, FastAPI" />
 </p>
 
 ### Data & Messaging
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka" alt="PostgreSQL, MongoDB, Redis, Kafka" />
 </p>
 
 ### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,nginx,cloudflare,linux" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,nginx,cloudflare,linux" alt="Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Nginx, Cloudflare, Linux" />
 </p>
 
 ### Engineering Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,maven,npm,pnpm,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,maven,npm,pnpm,vscode,idea" alt="Git, GitHub, Maven, npm, pnpm, VS Code, IntelliJ IDEA" />
 </p>
 
 ---
@@ -399,16 +399,15 @@ My current engineering direction is deeper production experience across:
 <div align="center">
 
 <img
-  src="https://www.gitskins.com/api/section/stats?username=dapravith&theme=github-dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dapravith&theme=github_dark"
   alt="Rotha Dapravith GitHub statistics"
-  width="100%"
+  height="180"
 />
-
-<br/>
 
 <img
   src="https://streak-stats.demolab.com?user=Dapravith&theme=github-dark-blue&hide_border=true"
   alt="Rotha Dapravith GitHub contribution streak"
+  height="180"
 />
 
 </div>
@@ -420,8 +419,8 @@ My current engineering direction is deeper production experience across:
 <div align="center">
 
 <img
-  src="https://www.gitskins.com/api/section/heatmap?username=dapravith&theme=github-dark"
-  alt="Rotha Dapravith GitHub contribution heatmap"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dapravith&theme=github_dark"
+  alt="Rotha Dapravith contribution activity"
   width="100%"
 />
 
@@ -502,9 +501,9 @@ Interested in **Full-Stack Engineering, Backend Systems, DevOps, Cloud Native, K
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Dapravith-181717?style=for-the-badge\&logo=github)](https://github.com/Dapravith)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge\&logo=vercel)](https://dapravith.vercel.app/)
-[![X](https://img.shields.io/badge/X-@Rdapravith-000000?style=for-the-badge\&logo=x)](https://x.com/Rdapravith)
+[![GitHub](https://img.shields.io/badge/GitHub-Dapravith-181717?style=for-the-badge&logo=github)](https://github.com/Dapravith)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel)](https://dapravith.vercel.app/)
+[![X](https://img.shields.io/badge/X-@Rdapravith-000000?style=for-the-badge&logo=x)](https://x.com/Rdapravith)
 
 <br>
 
