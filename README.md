@@ -1,59 +1,514 @@
-## Delivery pipeline
+<div align="center">
 
-<p><code>dapravith@github:~$ whoami</code></p>
+# 👋 Hi, I'm Dapravith Rotha
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=dapravith&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90898700%3Fv%3D4&style=terminal" alt="dapravith hero visual" />
-</p>
+### Full-Stack Engineer · DevOps Engineer
 
-**ROTHA DAPRAVITH** · Frontend or full-stack engineer
+Building reliable applications, backend services, delivery pipelines, and cloud-native infrastructure.
 
-## Operating principles
+📍 Phnom Penh, Cambodia
 
-<pre><code>ROLE        = Frontend or full-stack engineer
+[![GitHub](https://img.shields.io/badge/GitHub-Dapravith-181717?style=for-the-badge\&logo=github)](https://github.com/Dapravith)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dapravith.vercel.app-000000?style=for-the-badge\&logo=vercel)](https://dapravith.vercel.app/)
+[![X](https://img.shields.io/badge/X-@Rdapravith-000000?style=for-the-badge\&logo=x)](https://x.com/Rdapravith)
+
+</div>
+
+---
+
+## `dapravith@github:~$ whoami`
+
+```text
+NAME        = Rotha Dapravith
+ROLE        = Full-Stack Engineer / DevOps Engineer
 LOCATION    = Phnom Penh, Cambodia
-PUBLIC_REPOS = 83
-COMMUNITY   = 24 followers</code></pre>
 
-Full-stack Developer (Node, Express.js, Java Springboot) and DevOps Engineer
+FOCUS       = Backend Engineering
+              Full-Stack Development
+              DevOps & Platform Engineering
+              Cloud-Native Systems
+              CI/CD & Observability
 
-## Uptime in motion
+BUILDING    = Production-ready systems
+              Automated delivery pipelines
+              Microservices
+              Developer platforms
+```
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=dapravith&theme=github-dark" alt="dapravith contribution activity" />
+I work across the application and infrastructure layers.
+
+My main interests are designing maintainable backend systems, building modern web applications, automating software delivery, and operating applications reliably in production.
+
+---
+
+# ⚡ Engineering Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Full-Stack Engineering
+
+* TypeScript
+* JavaScript
+* Vue.js / Nuxt
+* React / Next.js
+* Node.js
+* Express.js
+* REST APIs
+* Authentication & Authorization
+* PostgreSQL
+* MongoDB
+* Redis
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Engineering
+
+* Java
+* Spring Boot
+* Spring Security
+* Spring Cloud
+* Microservices
+* Event-driven architecture
+* Kafka
+* REST APIs
+* OAuth2 / OIDC
+* Keycloak
+* Database design
+* API Gateway
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 DevOps & Platform
+
+* Docker
+* Docker Compose
+* Kubernetes
+* Helm
+* Jenkins
+* GitHub Actions
+* Argo CD
+* GitOps
+* Linux
+* Nginx
+* CI/CD
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Observability & Infrastructure
+
+* Prometheus
+* Grafana
+* Loki
+* Grafana Alloy
+* Terraform
+* Cloudflare
+* MinIO
+* Kafka
+* PostgreSQL
+* Redis
+* Monitoring
+* Logging
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠 Technology Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,bash" />
 </p>
 
-## Service signals
+### Frontend
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=dapravith&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90898700%3Fv%3D4" alt="dapravith stats visual" />
+<p>
+<img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,tailwind,vite" />
 </p>
 
-<p><code>297 contributions</code> · <code>0 day streak</code></p>
+### Backend
 
-## Infrastructure shipped
-
-- **[Microservices-kakfa-springboot](https://github.com/Dapravith/Microservices-kakfa-springboot)** — Featured public work · ⭐ 0
-- **[spring-boot-3-microservices-course](https://github.com/Dapravith/spring-boot-3-microservices-course)** — Spring Boot 3 Microservices Course  · ⭐ 0
-- **[spring-boot-debezium-master-slave](https://github.com/Dapravith/spring-boot-debezium-master-slave)** — Featured public work · ⭐ 0
-- **[Spring-Boot-Microservices-Banking-Application](https://github.com/Dapravith/Spring-Boot-Microservices-Banking-Application)** — 🌐 Welcome to the Spring Boot Microservices Banking App! Explore user registration, account management, fund transfers, and transactions. 🚀 With a robust Service Registry and API Gateway, dive into seamless integration. Follow our guide to configure microservices and unleash the power of this banking marvel. · ⭐ 0
-- **[springboot-sso-keycloak](https://github.com/Dapravith/springboot-sso-keycloak)** — Featured public work · ⭐ 0
-- **[spring-security-oauth](https://github.com/Dapravith/spring-security-oauth)** — Getting Started withg Spring Security OAuth:  · ⭐ 0
-
-## Platform toolkit
-
-<p><code>dapravith@github:~$ toolbox --list</code></p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=dapravith&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90898700%3Fv%3D4&style=terminal" alt="dapravith stack visual" />
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" />
 </p>
 
-## Keep it moving
+### Data & Messaging
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=dapravith&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90898700%3Fv%3D4" alt="dapravith social visual" />
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka" />
 </p>
 
-<a href="https://github.com/dapravith">GitHub</a> · <a href="https://dapravith.vercel.app/">Website</a> · <a href="https://x.com/Rdapravith">X</a>
+### DevOps & Cloud
 
-<p align="center"><sub>ROTHA DAPRAVITH · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,nginx,cloudflare,linux" />
+</p>
+
+### Engineering Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,maven,npm,pnpm,vscode,idea" />
+</p>
+
+---
+
+# 🚀 Delivery Pipeline
+
+```mermaid
+flowchart LR
+    DEV["👨‍💻 Development"]
+    GIT["Git / GitHub"]
+    CI["CI Pipeline"]
+    TEST["Test & Quality"]
+    BUILD["Container Build"]
+    REG["Container Registry"]
+    CD["CD / GitOps"]
+    K8S["Kubernetes"]
+    OBS["Observability"]
+
+    DEV --> GIT
+    GIT --> CI
+    CI --> TEST
+    TEST --> BUILD
+    BUILD --> REG
+    REG --> CD
+    CD --> K8S
+    K8S --> OBS
+
+    OBS -. Feedback .-> DEV
+```
+
+```text
+Code
+  │
+  ▼
+GitHub
+  │
+  ▼
+CI
+  ├── Build
+  ├── Unit Test
+  ├── Integration Test
+  ├── Security / Quality Checks
+  └── Container Build
+          │
+          ▼
+    Container Registry
+          │
+          ▼
+       CD / GitOps
+          │
+          ▼
+       Kubernetes
+          │
+          ├── Application
+          ├── Configuration
+          ├── Secrets
+          ├── Networking
+          └── Scaling
+                │
+                ▼
+        Prometheus · Loki
+                │
+                ▼
+             Grafana
+```
+
+My goal is not simply to deploy applications.
+
+I focus on creating a delivery process that is:
+
+`Repeatable` · `Observable` · `Secure` · `Recoverable` · `Scalable`
+
+---
+
+# 🏗 Featured Engineering Projects
+
+### ☕ Microservices & Java
+
+**[Microservices-kakfa-springboot](https://github.com/Dapravith/Microservices-kakfa-springboot)**
+
+Spring Boot microservices architecture with Kafka-based communication.
+
+`Java` `Spring Boot` `Kafka` `Microservices`
+
+---
+
+**[spring-boot-3-microservices-course](https://github.com/Dapravith/spring-boot-3-microservices-course)**
+
+Hands-on implementation of modern Spring Boot 3 microservice patterns.
+
+`Java` `Spring Boot 3` `Microservices`
+
+---
+
+**[spring-boot-debezium-master-slave](https://github.com/Dapravith/spring-boot-debezium-master-slave)**
+
+Exploring database replication and change data capture patterns.
+
+`Spring Boot` `Debezium` `Database` `CDC`
+
+---
+
+### 🏦 Distributed Systems
+
+**[Spring-Boot-Microservices-Banking-Application](https://github.com/Dapravith/Spring-Boot-Microservices-Banking-Application)**
+
+Microservices-based banking application covering registration, accounts, transfers, transactions, service discovery, and API gateway patterns.
+
+`Spring Boot` `Microservices` `API Gateway` `Service Discovery`
+
+---
+
+### 🔐 Identity & Security
+
+**[springboot-sso-keycloak](https://github.com/Dapravith/springboot-sso-keycloak)**
+
+Single Sign-On integration using Spring Boot and Keycloak.
+
+`Spring Security` `Keycloak` `SSO` `OIDC`
+
+---
+
+**[spring-security-oauth](https://github.com/Dapravith/spring-security-oauth)**
+
+Authentication and authorization experiments using Spring Security OAuth.
+
+`Spring Security` `OAuth2` `Authentication`
+
+---
+
+# 🔧 Platform Engineering Mindset
+
+```yaml
+engineering:
+  application:
+    frontend:
+      - Vue / Nuxt
+      - React / Next.js
+      - TypeScript
+
+    backend:
+      - Java / Spring Boot
+      - Node.js / Express
+      - Python / FastAPI
+
+  architecture:
+    - Modular Monolith
+    - Microservices
+    - Event-Driven Systems
+    - REST APIs
+
+  platform:
+    containers:
+      - Docker
+      - Kubernetes
+      - Helm
+
+    delivery:
+      - GitHub Actions
+      - Jenkins
+      - Argo CD
+      - GitOps
+
+    observability:
+      - Prometheus
+      - Grafana
+      - Loki
+      - Grafana Alloy
+
+    infrastructure:
+      - Linux
+      - Nginx
+      - Terraform
+      - Cloudflare
+```
+
+---
+
+# 🧠 What I'm Working Toward
+
+My current engineering direction is deeper production experience across:
+
+* Distributed backend systems
+* Java concurrency and JVM performance
+* High-throughput Spring Boot services
+* Event-driven architecture with Kafka
+* Kubernetes operations
+* GitOps delivery with Argo CD
+* Infrastructure as Code
+* Production observability
+* Reliability engineering
+* Security-focused delivery pipelines
+* Cloud-native architecture
+* Platform engineering
+
+---
+
+# 🧩 Systems I Like Building
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                      CLIENT LAYER                       │
+│           Nuxt · Next.js · Vue · React                 │
+└──────────────────────────┬──────────────────────────────┘
+                           │
+                           ▼
+┌─────────────────────────────────────────────────────────┐
+│                       API LAYER                         │
+│       Spring Boot · Node.js · FastAPI · REST           │
+└──────────────────────────┬──────────────────────────────┘
+                           │
+              ┌────────────┴────────────┐
+              ▼                         ▼
+┌───────────────────────┐    ┌───────────────────────────┐
+│      DATA LAYER       │    │     EVENT / CACHE LAYER   │
+│ PostgreSQL · MongoDB  │    │      Kafka · Redis        │
+└───────────────────────┘    └───────────────────────────┘
+
+                           │
+                           ▼
+┌─────────────────────────────────────────────────────────┐
+│                    PLATFORM LAYER                       │
+│ Docker · Kubernetes · Helm · Argo CD · GitHub Actions │
+└──────────────────────────┬──────────────────────────────┘
+                           │
+                           ▼
+┌─────────────────────────────────────────────────────────┐
+│                  OBSERVABILITY LAYER                    │
+│        Prometheus · Grafana · Loki · Alloy             │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dapravith&show_icons=true&hide_border=true&theme=github_dark" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dapravith&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapravith&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+
+</div>
+
+---
+
+# 🌐 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dapravith&theme=github-compact&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+<details>
+<summary><b>🔎 More about how I engineer systems</b></summary>
+
+<br>
+
+I prefer systems where the path from source code to production is explicit and automated.
+
+```text
+Requirement
+    ↓
+Architecture
+    ↓
+Implementation
+    ↓
+Code Review
+    ↓
+Automated Testing
+    ↓
+Continuous Integration
+    ↓
+Containerization
+    ↓
+Security / Quality Gates
+    ↓
+Continuous Delivery
+    ↓
+Infrastructure
+    ↓
+Observability
+    ↓
+Incident Feedback
+    ↓
+Engineering Improvement
+```
+
+A production system is more than application code.
+
+It also needs deployment automation, infrastructure, security, monitoring, logging, recovery strategies, documentation, and operational ownership.
+
+</details>
+
+<details>
+<summary><b>🎯 Current learning priorities</b></summary>
+
+<br>
+
+```text
+01. Advanced Java & Spring Boot
+02. JVM, concurrency and performance
+03. Distributed systems
+04. Kafka & event-driven architecture
+05. PostgreSQL & Redis
+06. Docker & Kubernetes
+07. Helm & Argo CD
+08. CI/CD architecture
+09. Terraform & infrastructure automation
+10. Prometheus, Grafana & Loki
+11. Reliability engineering
+12. System design
+```
+
+</details>
+
+---
+
+# 🤝 Connect
+
+<div align="center">
+
+Interested in **Full-Stack Engineering, Backend Systems, DevOps, Cloud Native, Kubernetes, CI/CD, or Platform Engineering?**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Dapravith-181717?style=for-the-badge\&logo=github)](https://github.com/Dapravith)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge\&logo=vercel)](https://dapravith.vercel.app/)
+[![X](https://img.shields.io/badge/X-@Rdapravith-000000?style=for-the-badge\&logo=x)](https://x.com/Rdapravith)
+
+<br>
+
+```text
+dapravith@github:~$ build --ship --observe --improve
+✓ Build reliable software
+✓ Automate delivery
+✓ Observe production
+✓ Improve continuously
+```
+
+<sub>Rotha Dapravith · Full-Stack & DevOps Engineer</sub>
+
+</div>
